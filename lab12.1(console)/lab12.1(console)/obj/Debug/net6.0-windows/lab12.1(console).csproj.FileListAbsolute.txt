@@ -1,0 +1,17 @@
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\bin\Debug\net6.0-windows\lab12.1(console).exe
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\bin\Debug\net6.0-windows\lab12.1(console).deps.json
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\bin\Debug\net6.0-windows\lab12.1(console).runtimeconfig.json
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\bin\Debug\net6.0-windows\lab12.1(console).dll
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\bin\Debug\net6.0-windows\lab12.1(console).pdb
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(console).csproj.AssemblyReference.cache
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12._1_console_.Form1.resources
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(console).csproj.GenerateResource.cache
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(console).GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(console).AssemblyInfoInputs.cache
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(console).AssemblyInfo.cs
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(console).csproj.CoreCompileInputs.cache
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(console).dll
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\refint\lab12.1(console).dll
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(console).pdb
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(console).genruntimeconfig.cache
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\ref\lab12.1(console).dll

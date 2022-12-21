@@ -1,0 +1,17 @@
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\bin\Debug\net6.0-windows\lab12.1(graph).exe
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\bin\Debug\net6.0-windows\lab12.1(graph).deps.json
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\bin\Debug\net6.0-windows\lab12.1(graph).runtimeconfig.json
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\bin\Debug\net6.0-windows\lab12.1(graph).dll
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\bin\Debug\net6.0-windows\lab12.1(graph).pdb
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(graph).csproj.AssemblyReference.cache
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12._1_console_.Form1.resources
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(graph).csproj.GenerateResource.cache
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(graph).GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(graph).AssemblyInfoInputs.cache
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(graph).AssemblyInfo.cs
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(graph).csproj.CoreCompileInputs.cache
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(graph).dll
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\refint\lab12.1(graph).dll
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(graph).pdb
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\lab12.1(graph).genruntimeconfig.cache
+D:\Учебная практика\Задание 12\lab12.1(console)\lab12.1(console)\obj\Debug\net6.0-windows\ref\lab12.1(graph).dll
